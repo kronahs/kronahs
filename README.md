@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/@naod11694241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@naod11694241" height="30" width="40" /></a>
 <a href="https://fb.com/naod.tadele.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naod.tadele.9" height="30" width="40" /></a>
 <a href="https://instagram.com/naod_tadele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naod_tadele" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uczqsjtpufeybxvo4r6xkexa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uczqsjtpufeybxvo4r6xkexa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/naodtadele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="naodtadele" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
