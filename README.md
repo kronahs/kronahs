@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://naodtadele.netlify.app/](https://naodtadele.netlify.app/)
 
-- 💬 Ask me about **Flutter ,MEARN, ASP.NET**
+- 💬 Ask me about **Flutter ,MERN, ASP.NET**
 
 - 📫 How to reach me **naodtadele1@gmail.com**
 
