@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **naodtadele1@gmail.com**
 
-- 📄 Know about my experiences [https://naodtadele.netlify.app/files/Naod's%20Resume.pdf](https://naodtadele.netlify.app/files/Naod's%20Resume.pdf)
+- 📄 Know about my experiences [https://naodtadele.vercel.app](https://naodtadele.vercel.app)
 
 - ⚡ Fun fact **I like the color cyan**
 
