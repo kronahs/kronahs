@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://naodtadele.netlify.app/](https://naodtadele.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://naodtadele.netlify.app/](https://naodtadele.com)
 
 - 💬 Ask me about **Flutter ,MERN, ASP.NET**
 
