@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://naodtadele.netlify.app/](https://naodtadele.com)
-
 - 💬 Ask me about **Flutter ,MERN, ASP.NET**
 
 - 📫 How to reach me **naodtadele1@gmail.com**
 
-- 📄 Know about my experiences [https://naodtadele.vercel.app](https://naodtadele.vercel.app)
+- 📄 Know about my experiences [https://naodtadele.com](https://naodtadele.com)
 
 - ⚡ Fun fact **I like the color cyan**
 
